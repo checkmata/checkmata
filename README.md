@@ -104,15 +104,7 @@ Designed a learning project combining a simulated on-premises network, AWS conne
 - AI/ML pipelines and intelligent monitoring
 - Secure, observable and efficient distributed systems
 
-## GitHub activity
 
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME in the image URLs below with your GitHub username. -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
